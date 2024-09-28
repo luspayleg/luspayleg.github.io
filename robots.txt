@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://luspayleg.github.io/sitemap.luspayleg.gz
+Sitemap: https://luspayleg.github.io/app/sitemap.luspayleg.gz
+Sitemap: https://luspayleg.github.io/assets/sitemap.luspayleg.gz
+Sitemap: https://luspayleg.github.io/css/sitemap.luspayleg.gz
+Sitemap: https://luspayleg.github.io/data/sitemap.luspayleg.gz
+Sitemap: https://luspayleg.github.io/includes/sitemap.luspayleg.gz
+Sitemap: https://luspayleg.github.io/item/sitemap.luspayleg.gz
+Sitemap: https://luspayleg.github.io/src/sitemap.luspayleg.gz
